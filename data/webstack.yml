@@ -487,6 +487,86 @@
       url: https://game.ittools.cc/
       logo: 
       description: 网页游戏在线游玩
+
+
+- taxonomy: 影视动漫
+  icon: fa-link
+  links: 
+    - title: 樱花动漫
+      url: http://www.yinghuajinju.com/
+      logo: 
+      description: 专注动漫的门户网站
+    - title: 电影天堂
+      url: https://www.dygod.net/
+      logo: 
+      description: 高清电影下载，高品质生活
+    - title: 蓝光电影网
+      url: http://www.languangdy.com/
+      logo: 
+      description: 免费的蓝光高清电影网
+    - title: 低端影视
+      url: https://ddys.mov/
+      logo: 
+      description: 超清在线视频站
+    - title: 一席
+      url: https://yixi.tv/#/home
+      logo: 
+      description: 剧场式演讲、结合网络视频传播的平台
+    - title: 影猫
+      url: https://www.mvcat.com/
+      logo: 
+      description: 影视推荐
+    - title: 可可影视
+      url: https://www.keke13.com/
+      logo: 
+      description: 你想看的都有
+
+
+- taxonomy: 趣站合集
+  icon: fa-star
+  links: 
+    - title: 世界各国网址大全
+      url: https://www.world68.com/
+      logo: 
+      description: 世界的，你我的
+    - title: wikiHow
+      url: https://zh.wikihow.com/
+      logo: 
+      description: 你可以信赖的万事指南
+    - title: 护照指数
+      url: https://www.passportindex.org/cn/
+      logo: 
+      description: 世界护照尽在掌握中
+    - title: 艾瑞咨询
+      url: https://www.iresearch.com.cn/
+      logo: 
+      description: 为客户提供专业的行业分析、数据洞察、市场研究、战略咨询及数字化解决方案
+
+
+- taxonomy: 实用工具
+  icon: fa-star
+  links:  
+    - title: 田字格生成器
+      url: https://www.an2.net/
+      logo: 
+      description: 田字格字帖生成器系列工具
+    - title: 条形码二维码生存工具
+      url: http://t-x-m.com/
+      logo: 
+      description: 免费在线生成工具
+    - title: 在线文件批量重命名工具
+      url: https://webrename.cn/https://www.chromedownloads.net/
+      logo: 
+      description: 无需下载&安装，支持大文件与多种重命名模式，一键批量完成文件重命名，高效便捷
+    - title: 谷歌浏览器及插件
+      url: https://www.chromedownloads.net/http://map.ps123.net/
+      logo: 
+      description: 谷歌浏览器及插件下载网站
+    - title: 地之图
+      url: http://map.ps123.net/
+      logo: 
+      description: 地之图，找地图！
+
       
 - taxonomy: 友情链接
   icon: fa-link
