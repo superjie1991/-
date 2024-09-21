@@ -471,23 +471,22 @@
       url: https://www.yikm.net/
       logo: 
       description: 愿我们找回童年的快乐
+    - title: koyso游戏仓库
+      url: https://koyso.com/
+      logo: 
+      description: 热门游戏下载游玩
+    - title: flash小游戏
+      url: https://oldswf.com/https://www.gamer520.com/
+      logo: 
+      description: 无需安装flash游戏即可游玩的小游戏站点
+    - title: 520游戏社区
+      url: https://www.gamer520.com/
+      logo: 
+      description: PC/Switch/PS4/PS5热门游戏下载游玩
     - title: 在线网页游戏
       url: https://game.ittools.cc/
       logo: 
       description: 网页游戏在线游玩
-     - title: koyso游戏仓库
-      url: https://koyso.com/
-      logo: 
-      description: 热门游戏下载游玩
-     - title: flash小游戏
-      url: https://oldswf.com/https://www.gamer520.com/
-      logo: 
-      description: 无需安装flash游戏即可游玩的小游戏站点
-     - title: 520游戏社区
-      url: https://www.gamer520.com/
-      logo: 
-      description: PC/Switch/PS4/PS5热门游戏下载游玩
-
       
 - taxonomy: 友情链接
   icon: fa-link
