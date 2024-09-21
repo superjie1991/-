@@ -30,7 +30,7 @@
 
 
 - taxonomy: 常用工具
-  icon: fa-regular fa-lightbulb
+  icon: fa-star
   list: 
     - term: 文件转换
       links:
@@ -86,273 +86,23 @@
           url: https://1024tools.com/uuid/
           logo: 
           description: UUID在线生成
-
-      
-- taxonomy: 素材资源
-  icon: fa-thumbs-up
-  list: 
-    - term: 图标素材
-      links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: images/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-        - title: Icon Archive
-          logo: images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-
-    - term: LOGO设计
-      links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download
-        - title: Instant Logo Search
-          logo: images/logos/InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly
-
-    - term: 免费平面素材
-      links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: 懒人图库
-          logo: images/logos/lanrentuku.png
-          url: https://www.lanrentuku.com/tupian/
-          description: 懒人图库专注于提供网页素材下载
-        - title: 素材中国
-          logo: images/logos/sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台
-      
-    - term: UI资源
-      links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
-        - title: Freebie Supply
-          logo: images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
-          description: Free Resources For Designers
-      
-    - term: Sketch资源
-      links:
-        - title: Sketch中文网
-          url: http://www.sketchcn.com/
-          logo: images/logos/sketchcn.png
-          description: 分享最新的Sketch中文手册
-
-      
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: images/logos/googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography
-        - title: Typekit
-          url: https://typekit.com/
-          logo: images/logos/typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: images/logos/Fondertype.png
-          description: 方正字库官方网站
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: images/logos/ziticq.png
-          description: 中国首个字体品牌设计师交流网
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: images/logos/sicangziti.png
-          description: 优质字体免费下载站
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: images/logos/fontsquirrel.png
-          description: FREE fonts for graphic designers
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: images/logos/UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: images/logos/losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: images/logos/fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: images/logos/fontex.png
-          description: Free Fonts to Download + Premium Typefaces
-        - title: FontM
-          url: http://fontm.com/
-          logo: images/logos/FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: images/logos/MyFonts.png
-          description: Fonts for Print, Products & Screens
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: images/logos/dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: images/logos/OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: images/logos/abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts)
-      
-    - term: 样机模板
-      links:
-        - title: Graphberry
-          url: http://www.graphberry.com/
-          logo: images/logos/graphberry.png
-          description: Free design resources, Mockups, PSD web templates, Icons
-        - title: Mockup World
-          url: https://free.lstore.graphics/
-          logo: images/logos/mockupworld.png
-          description: The best free Mockups from the Web
-
-      
-    - term: 摄影图库
-      links:
-        - title: Unsplash
-          url: https://unsplash.com/
-          logo: images/logos/unsplash.png
-          description: Beautiful, free photos.
-        - title: visualhunt
-          url: https://visualhunt.com/
-          logo: images/logos/visualhunt.png
-          description: 100% Free High Quality Photos
-        - title: librestock
-          url: https://librestock.com/
-          logo: images/logos/librestock.png
-          description: 65,084 high quality do-what-ever-you-want stock photos
-        - title: pixabay
-          url: https://pixabay.com/
-          logo: images/logos/pixabay.png
-          description: 可在任何地方使用的免费图片和视频
-        - title: SplitShire
-          url: https://www.splitshire.com/
-          logo: images/logos/SplitShire.png
-          description: Free Stock Photos and Videos for commercial use.
-        - title: StockSnap
-          url: https://stocksnap.io/
-          logo: images/logos/StockSnap.png
-          description: Beautiful free stock photos
-        - title: albumarium
-          url: http://albumarium.com/
-          logo: images/logos/albumarium.png
-          description: The best place to find & share beautiful images
-        - title: myphotopack
-          url: https://myphotopack.com/
-          logo: images/logos/myphotopack.png
-          description: A free photo pack just for you. Every month.
-        - title: Notaselfie
-          url: http://notaselfie.com/
-          logo: images/logos/notaselfie.png
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-        - title: papers
-          url: http://papers.co/
-          logo: images/logos/papers.png
-          description: Wallpapers Every Hour!Hand collected :)
-        - title: stokpic
-          url: http://stokpic.com/
-          logo: images/logos/stokpic.png
-          description: Free Stock Photos For Commercial Use
-        - title: 55mm
-          url: https://55mm.co/visuals
-          logo: images/logos/55mm.png
-          description: Use our FREE photos to tell your story! 
-        - title: thestocks
-          url: http://thestocks.im/
-          logo: images/logos/thestocks.png
-          description: Use our FREE photos to tell your story! 
-        - title: freenaturestock
-          url: http://freenaturestock.com/
-          logo: images/logos/freenaturestock.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: negativespace
-          url: https://negativespace.co/
-          logo: images/logos/negativespace.png
-          description: Beautiful, High-Resolution Free Stock Photos
-        - title: gratisography
-          url: https://gratisography.com/
-          logo: images/logos/gratisography.png
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions. 
-        - title: imcreator
-          url: http://imcreator.com/free
-          logo: images/logos/imcreator.png
-          description: A curated collection of free web design resources, all for commercial use.
-        - title: lifeofpix
-          url: http://www.lifeofpix.com/
-          logo: images/logos/lifeofpix.png
-          description: Free high resolution photography
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: images/logos/skitterphoto.png
-          description: Free Stock Photos for Creative Professionals
-        - title: mmtstock
-          url: https://mmtstock.com/
-          logo: images/logos/mmtstock.png
-          description: Free photos for commercial use
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: images/logos/skitterphoto.png
-          description: a place to find, show and share public domain photos
-        - title: magdeleine
-          url: https://magdeleine.co/browse/
-          logo: images/logos/magdeleine.png
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-        - title: jeshoots
-          url: http://jeshoots.com/
-          logo: images/logos/jeshoots.png
-          description: New Free Photos & Mockups in to your Inbox!
-        - title: hdwallpapers
-          url: https://www.hdwallpapers.net
-          logo: images/logos/hdwallpapers.png
-          description: High Definition Wallpapers & Desktop Backgrounds
-        - title: publicdomainarchive
-          url: http://publicdomainarchive.com/
-          logo: images/logos/publicdomainarchive.png
-          description: New 100% Free Stock Photos. Every. Single. Week.
-      
+        - title: goqr
+          url: http://goqr.me/
+          logo: images/logos/goqr.png
+          description: 二维码生成工具
+        - title: ezgif
+          url: https://ezgif.com
+          logo: images/logos/ezgif.png
+          description: 一款简单、免费的在线 GIF 制作工具和工具集
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: images/logos/screensizes.png
+          description: 屏幕尺寸查询
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: images/logos/svgomg.png
+          description: SVG在线压缩平台
+          
     - term: PPT资源
       links:
         - title: OfficePLUS
@@ -375,96 +125,108 @@
           url: https://www.hippter.com/index.html
           logo: 
           description: 汇总PPT设计利器
+
       
-
-- taxonomy: 常用工具
-  icon: fa-palette
-  list:   
-    - term: 在线配色
+- taxonomy: PS资源
+  icon: fa-thumbs-up
+  list: 
+    - term: 图标素材
       links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: images/logos/khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: images/logos/uigradients.png
-          description: Beautiful colored gradients
-        - title: gradients
-          url: http://gradients.io/
-          logo: images/logos/gradients.png
-          description: Curated gradients for designers and developers
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: images/logos/Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: images/logos/webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: images/logos/grabient.png
-          description: 2017 Grabient by unfold
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: images/logos/thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: images/logos/flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme
-        - title: coolors
-          url: https://coolors.co/
-          logo: images/logos/coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: images/logos/colorhunt.png
-          description: Beautiful Color Palettes
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: images/logos/AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: images/logos/flatuicolorpicker.png
-          description: Best Flat Colors For UI Design
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: images/logos/trianglify.png
-          description: Trianglify Generator
-        - title: klart
-          url: https://klart.co/colors/
-          logo: images/logos/klart.png
-          description: Beautiful colors and designs to your inbox every week
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: images/logos/vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+        - title: Iconfinder
+          logo: images/logos/Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: iconfont
+          logo: images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Icon Archive
+          logo: YouIcons
+          url: https://cn.youicons.com/
+          description: 下载 48.7M 的矢量图标、徽标和插图
+        - title: Material icons
+          logo: google icons
+          url: https://fonts.google.com/icons
+          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
 
-    - term: 在线工具
+    - term: LOGO设计
       links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: images/logos/tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: images/logos/goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-        - title: ezgif
-          url: https://ezgif.com
-          logo: images/logos/ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: images/logos/screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: images/logos/svgomg.png
-          description: SVG在线压缩平台
+        - title: Iconsfeed
+          logo: images/logos/iconsfeed.png
+          url: http://www.iconsfeed.com/
+          description: iOS icons gallery
+        - title: iOS Icon Gallery
+          logo: images/logos/iosicongallery.png
+          url: http://iosicongallery.com/
+          description: Showcasing beautiful icon designs from the iOS App Store
+        - title: World Vector Logo
+          logo: images/logos/worldvectorlogo.png
+          url: https://worldvectorlogo.com/
+          description: Brand logos free to download
+
+    - term: 免费平面素材
+      links:
+        - title: freepik
+          logo: images/logos/freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons.
+        - title: 懒人图库
+          logo: images/logos/lanrentuku.png
+          url: https://www.lanrentuku.com/tupian/
+          description: 懒人图库专注于提供网页素材下载
+        - title: 素材中国
+          logo: images/logos/sccnn.png
+          url: http://www.sccnn.com/
+          description: 免费素材共享平台
+        - title: Pexels
+          logo: 
+          url: https://www.pexels.com/zh-cn/
+          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频
+        - title: Pexels
+          logo: 
+          url: https://wallpaperscraft.com/
+          description: 各尺寸高清桌面壁纸免费下载
+         - title: Foodiesfeed
+          logo: 
+          url: https://www.foodiesfeed.com/
+          description: 各类食物照片免费下载         
+        - title: Pexels
+          logo: 
+          url: https://www.pexels.com/zh-cn/
+          description: 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频
+        - title: visualhunt
+          url: https://visualhunt.com/
+          logo: images/logos/visualhunt.png
+          description: 免费高质量家居家庭类图片
+        - title: StockSnap
+          url: https://stocksnap.io/
+          logo: images/logos/StockSnap.png
+          description: 免费图片下载，不受版权限制
+
+
+          
+    - term: UI资源
+      links:
+        - title: Freebiesbug
+          logo: images/logos/freebiesbug.png
+          url: https://freebiesbug.com/
+          description: 顶级设计师和开发人员创建的2060 多种免费设计资源，数量庞大且不断增加。从大量字体、图形和 HTML 网站模板、图标、模型等中进行选择！
+        - title: Freebie Supply
+          logo: images/logos/freebiesupply.png
+          url: https://freebiesupply.com/
+          description: 为设计师提供的免费设计资源
+        - title: Sketch中文网
+          url: http://www.sketchcn.com/
+          logo: images/logos/sketchcn.png
+          description: 分享最新的Sketch中文手册
+        - title: Graphberry
+          url: http://www.graphberry.com/
+          logo: images/logos/graphberry.png
+          description: 免费像素完美设计资源和模型
+        - title: papers
+          url: http://papers.co/
+          logo: images/logos/papers.png
+          description: 手机、电脑壁纸，每天都有新内容！
         - title: 稿定抠图
           url: https://www.gaoding.com
           logo: images/logos/gaoding.png
@@ -473,7 +235,57 @@
           url: https://www.chuangkit.com/
           logo: 
           description: 平面设计作图神器
-        
+          
+    - term: 字体资源
+      links:
+        - title: 100Font
+          url: https://www.100font.com/
+          logo: 
+          description: 一个专门收集整理“免费商用字体”的网站
+        - title: 字体天下
+          url: https://www.fonts.net.cn/
+          logo: 
+          description: 提供各类字体免费下载和在线预览
+        - title: 求字体
+          url: https://www.qiuziti.com/
+          logo: 
+          description: 字体识别与搜索，支持中、英、日、韩等多国语言海量字体的识别与搜索
+        - title: 字体传奇网
+          url: http://ziticq.com/
+          logo: images/logos/ziticq.png
+          description: 中国首个字体品牌设计师交流网
+        - title: 自由字体
+          url: https://ziyouziti.com/
+          logo: 
+          description: 免费商用字体大全
+      
+    - term: 在线配色
+      links:
+        - title: 中国色
+          url: https://www.zhongguose.com/
+          logo: 
+          description: 中国传统颜色选择
+        - title: ColorDrop
+          url: https://colordrop.io/
+          logo: 
+          description: 精选优质调色板
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: images/logos/colorhunt.png
+          description: Beautiful Color Palettes
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: images/logos/AdobeColorCC.png
+          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: images/logos/trianglify.png
+          description: Trianglify Generator
+        - title: klart
+          url: https://klart.co/colors/
+          logo: images/logos/klart.png
+          description: Beautiful colors and designs to your inbox every week
+
 
 - taxonomy: 游戏娱乐
   icon: fa-star
@@ -552,12 +364,6 @@
       url: https://www.iresearch.com.cn/
       logo: 
       description: 为客户提供专业的行业分析、数据洞察、市场研究、战略咨询及数字化解决方案
-
-
-- taxonomy: 实用工具
-  icon: fa-star
-  links:  
-
 
       
 - taxonomy: 友情链接
