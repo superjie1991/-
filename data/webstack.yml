@@ -3,6 +3,55 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: 网络剪切板
+      url: https://netcut.cn/
+      logo: 
+      description: 极简的数据暂存和传送工具
+    - title: YouTube影片下载器
+      url: https://ripyoutube.com/zh-tw1
+      logo: 
+      description: 在线从YouTube提取至mp4、mp3 
+    - title: 大数据导航
+      url: https://hao.199it.com/
+      logo: 
+      description: 大数据工具导航
+    - title: Pick Free
+      url: https://www.pickfree.cn/
+      logo: 
+      description: 汇总免费资源的导航网站
+    - title: A姐分享
+      url: https://www.ahhhhfs.com/
+      logo: 
+      description: 分享各种好玩有趣的资源，总有你需要的！
+    - title: 世界各国网址大全
+      url: https://www.world68.com/
+      logo: 
+      description: 世界的，你我的
+
+
+- taxonomy: 实用工具
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 田字格生成器
+      url: https://www.an2.net/
+      logo: 
+      description: 田字格字帖生成器系列工具
+    - title: 条形码二维码生存工具
+      url: http://t-x-m.com/
+      logo: 
+      description: 免费在线生成工具
+    - title: 在线文件批量重命名工具
+      url: https://webrename.cn/https://www.chromedownloads.net/
+      logo: 
+      description: 无需下载&安装，支持大文件与多种重命名模式，一键批量完成文件重命名，高效便捷
+    - title: 谷歌浏览器及插件
+      url: https://www.chromedownloads.net/http://map.ps123.net/
+      logo: 
+      description: 谷歌浏览器及插件下载网站
+    - title: 地之图
+      url: http://map.ps123.net/
+      logo: 
+      description: 地之图，找地图！
     - title: Base64编码解码
       url: https://www.matools.com/base64/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
@@ -10,19 +59,32 @@
       url: https://1024tools.com/uuid/
       description: UUID在线生成
     
-
-- taxonomy: 社区咨询
+    
+- taxonomy: 文件转换
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    
+    - title: PDF24 Tools
+      url: https://tools.pdf24.org/zh/
+      description: 免费且易于使用的在线PDF工具
+    - title: 文件转换器
+      url: https://cn.office-converter.com/
+      description: 免费在线转换器, 文件转换器 . 将PDF, 图像, 视频, 文档, 音频, 电子书及压缩等文件格式转换为其他格式。 
+    - title: PDF Candy
+      url: https://pdfcandy.com/cn/
+      description: 一体化在线 PDF 工具包
+    - title: PDF爱好者
+      url: https://www.ilovepdf.com/zh-cn
+      description: 完全免费、易于使用、丰富的PDF处理工具
+    - title: Convertio
+      url: https://convertio.co/zh/
+      description: 文件转换器，将您的文件转换成任意格式
+    - title: HiPDF
+      url: https://www.hipdf.cn/
+      description: 一站式在线PDF解决方案
+    - title: ALL TO ALL
+      url: https://www.alltoall.net/
+      description: 免费的在线格式转换工具
+
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
@@ -525,10 +587,6 @@
 - taxonomy: 趣站合集
   icon: fa-star
   links: 
-    - title: 世界各国网址大全
-      url: https://www.world68.com/
-      logo: 
-      description: 世界的，你我的
     - title: wikiHow
       url: https://zh.wikihow.com/
       logo: 
@@ -546,26 +604,7 @@
 - taxonomy: 实用工具
   icon: fa-star
   links:  
-    - title: 田字格生成器
-      url: https://www.an2.net/
-      logo: 
-      description: 田字格字帖生成器系列工具
-    - title: 条形码二维码生存工具
-      url: http://t-x-m.com/
-      logo: 
-      description: 免费在线生成工具
-    - title: 在线文件批量重命名工具
-      url: https://webrename.cn/https://www.chromedownloads.net/
-      logo: 
-      description: 无需下载&安装，支持大文件与多种重命名模式，一键批量完成文件重命名，高效便捷
-    - title: 谷歌浏览器及插件
-      url: https://www.chromedownloads.net/http://map.ps123.net/
-      logo: 
-      description: 谷歌浏览器及插件下载网站
-    - title: 地之图
-      url: http://map.ps123.net/
-      logo: 
-      description: 地之图，找地图！
+
 
       
 - taxonomy: 友情链接
