@@ -569,7 +569,7 @@
 
       
 - taxonomy: 友情链接
-  icon: fa-link
+  icon: fa-star
   friend:
     - title: 子页面一
       url: sub1
