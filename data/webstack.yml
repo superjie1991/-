@@ -3,7 +3,6 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-
     - title: Base64编码解码
       url: https://www.matools.com/base64/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
@@ -461,11 +460,39 @@
           description: 平面设计作图神器
         
 
-- taxonomy: 学习教程
-  icon: fa-regular fa-folder-open
-  list: 
+- taxonomy: 游戏娱乐
+  icon: fa-star
+  links: 
+    - title: 其乐 Keylol
+      url: https://keylol.com/
+      logo: 
+      description: 驱动正版游戏的引擎！
+    - title: 小霸王，其乐无穷
+      url: https://www.yikm.net/
+      logo: 
+      description: 愿我们找回童年的快乐
+    - title: 在线网页游戏
+      url: https://game.ittools.cc/
+      logo: 
+      description: 网页游戏合集
+     - title: 5217社区
+      url: https://www.xxx5217.com/
+      logo: 
+      description: 一个纯粹、免费的游戏、软件、影视分享站点……
+     - title: koyso游戏仓库
+      url: https://koyso.com/
+      logo: 
+      description: 热门游戏下载游玩
+     - title: flash小游戏
+      url: https://oldswf.com/https://www.gamer520.com/
+      logo: 
+      description: 无需安装flash游戏即可游玩的小游戏站点
+     - title: 520游戏社区
+      url: https://www.gamer520.com/
+      logo: 
+      description: PC/Switch/PS4/PS5热门游戏下载游玩
 
-
+      
 - taxonomy: 友情链接
   icon: fa-link
   friend:
